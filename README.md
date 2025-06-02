@@ -3,7 +3,7 @@
 
 # 📚 UI Component Libraries
 
-**[HeroUI](https://heroui.dev)**  
+**[HeroUI](https://www.heroui.com/)**  
 <img src="https://github.com/user-attachments/assets/e5030870-cef1-4cf8-be86-d4efd15c3202" width="360" alt="HeroUI" />
 <br/>
 <br/>
