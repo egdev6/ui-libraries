@@ -27,7 +27,7 @@
 
 ---
 
-### [shadcn/ui](https://ui.shadcn.dev)
+### [shadcn/ui](https://ui.shadcn.com/)
 #### Compatibilidad: React, Next.js (App Router)
 <img src="https://github.com/user-attachments/assets/98c7b008-64f2-480f-9f4b-0ba1a46afb75" width="360" alt="ShadCN" />
 
