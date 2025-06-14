@@ -54,3 +54,9 @@
 ### [Bootstrap](https://getbootstrap.com)
 #### Compatibilidad: HTML, React (via react-bootstrap), Angular (via ng-bootstrap), Vue (via bootstrap-vue), Astro, Svelte
 <img src="https://github.com/user-attachments/assets/30039862-66c5-45c8-944b-3aa0e0796f3d" width="360" alt="Bootstrap" />
+
+---
+
+### [ZenUI](https://zenui.net/)
+#### Compatibilidad: HTML, React, Next.js
+<img src="https://github.com/user-attachments/assets/d8cbea88-2273-42a6-8a50-16a1b6bc567f" width="360" alt="Bootstrap" />
