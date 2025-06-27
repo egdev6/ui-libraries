@@ -61,10 +61,18 @@
 #### Compatibilidad: HTML, React, Next.js
 <img src="https://github.com/user-attachments/assets/d8cbea88-2273-42a6-8a50-16a1b6bc567f" width="360" alt="ZenUI" />
 
-
 ---
 
 ### [AnimateUI](https://animate-ui.com/)
 #### Compatibilidad: React, Next.js, Astro (con islands)
 <img src="https://github.com/user-attachments/assets/de06fc24-8ffd-451d-afd6-8c0efc92c95e" width="360" alt="AnimateUI" />
 
+
+---
+
+
+### [ReactBits](https://reactbits.dev/)
+#### Compatibilidad: React, Next.js, Astro (con islands)
+<img src="https://github.com/user-attachments/assets/2169cc00-5ac4-4021-8418-ce74bfad9341" width="360" alt="ReactBits" />
+
+---
