@@ -67,12 +67,16 @@
 #### Compatibilidad: React, Next.js, Astro (con islands)
 <img src="https://github.com/user-attachments/assets/de06fc24-8ffd-451d-afd6-8c0efc92c95e" width="360" alt="AnimateUI" />
 
-
 ---
-
 
 ### [ReactBits](https://reactbits.dev/)
 #### Compatibilidad: React, Next.js, Astro (con islands)
 <img src="https://github.com/user-attachments/assets/2169cc00-5ac4-4021-8418-ce74bfad9341" width="360" alt="ReactBits" />
+
+---
+
+### [RizzUI](https://www.rizzui.com/)
+### Compatibilidad: React, Next.js, Astro (con islands)
+<img src="https://github.com/user-attachments/assets/65776e73-2122-4fbf-88f3-079f72cc73bd" width="360" alt="RizzUI" />
 
 ---
