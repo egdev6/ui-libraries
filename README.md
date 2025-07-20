@@ -80,3 +80,8 @@
 <img src="https://github.com/user-attachments/assets/65776e73-2122-4fbf-88f3-079f72cc73bd" width="360" alt="RizzUI" />
 
 ---
+
+### [SeraUI](https://seraui.seraprogrammer.com/docs/shimmer)
+### Compatibilidad: React, Next.js, Astro (con islands)
+
+---
