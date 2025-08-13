@@ -81,7 +81,23 @@
 
 ---
 
-### [SeraUI](https://seraui.seraprogrammer.com/docs/shimmer)
+### [SeraUI](https://seraui.seraprogrammer.com/)
 ### Compatibilidad: React, Next.js, Astro (con islands)
+<img width="360" alt="SCR-20250813-ulek" src="https://github.com/user-attachments/assets/47c5fd8e-df60-4867-86d9-befb02eb5ca2" />
+
+
+---
+
+### [Scrollx UI](https://scrollx-ui.vercel.app/)
+### Compatibilidad: React, Next.js, Astro (con islands)
+<img width="360" alt="SCR-20250813-ulwa" src="https://github.com/user-attachments/assets/963dc0f3-6889-4938-8e2d-44112e017c8d" />
+
+
+---
+
+### [Nur UI](https://nurui.vercel.app/)
+### Compatibilidad: React, Next.js, Astro (con islands)
+<img width="360" alt="SCR-20250813-uncr" src="https://github.com/user-attachments/assets/4438f4cb-aca0-4b9d-a987-3a4286385859" />
+
 
 ---
