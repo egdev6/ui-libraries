@@ -104,6 +104,6 @@
 
 ### [Tailgrids UI](https://tailgrids.com/)
 ### Compatibilidad: React, Next.js, Astro (con islands)
-<img width="706" height="556" alt="image" src="https://github.com/user-attachments/assets/5b9bd0cb-8104-43a8-adcc-c34033b9c4e0" />
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/5b9bd0cb-8104-43a8-adcc-c34033b9c4e0" />
 
 ---
