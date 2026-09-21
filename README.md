@@ -107,3 +107,12 @@
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/5b9bd0cb-8104-43a8-adcc-c34033b9c4e0" />
 
 ---
+
+---
+
+## License
+
+Distributed under the [MIT License][license].
+
+
+[license]: LICENSE
